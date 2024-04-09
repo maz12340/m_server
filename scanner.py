@@ -29,3 +29,4 @@ with tqdm(total=1024, desc='Сканирование портов', unit='пор
 
 for port in open_ports:
     print(f'Открыт порт: {port}')
+
