@@ -23,3 +23,4 @@ if __name__ == "__main__":
 
     while True:
         send_message(client)
+
